@@ -1,0 +1,1 @@
+Dentro do pacote UTILIDADES temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como uma função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
